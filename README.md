@@ -1,5 +1,6 @@
 # aciklab2021
 Havelsan Pardus Liman Kampı Ödev
+
 2- Kalıcı bir çevre değişkeni tanımlanmak için /etc/environment sistem dosyası kullanılabilir.
 
 3- Var olan disklere eklenecek disk bölümlerinin modüler bir şekilde sonradan eklenebilmesini sağlar.
